@@ -1,6 +1,6 @@
 # Soundfield speech ABR
 Code for analysis of subcortical EEG responses to continuous speech presented using insert earphones and in the sound-field. Please cite the following publication if you use this code:
-
+Bachmann, F. L., Kulasingham, J. P., Eskelund, K., Enqvist, M., Alickovic, E., & Innes-Brown, H. (2024). Extending Subcortical EEG Responses to Continuous Speech to the Sound-Field. Trends in Hearing, 28. https://doi.org/10.1177/23312165241246596
 
 # How to use the code
 Complete the following steps in order
